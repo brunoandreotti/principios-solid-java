@@ -1,4 +1,4 @@
-# **Principios SOLID**
+# **Princípios SOLID**
 
 ## **SRP — (S)ingle Responsibility Principle (Princípio da Responsabilidade Única)**
 
